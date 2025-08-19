@@ -1,5 +1,5 @@
 title: xAptive
-description: xAptive's page
-show_downloads: true
+description: xAptive's Blog
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
